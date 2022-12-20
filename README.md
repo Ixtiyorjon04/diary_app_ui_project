@@ -1,6 +1,8 @@
 # diary_app_ui_project
 
 A new Flutter project.
+![image](https://user-images.githubusercontent.com/110228652/208612401-f1ac9005-b1ed-4d4f-94b7-7d78d6ca9ca6.png)
+![image](https://user-images.githubusercontent.com/110228652/208612687-675a16e2-406e-41e4-a233-a5caf521bcd3.png)
 
 ## Getting Started
 
